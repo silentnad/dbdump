@@ -1,0 +1,56 @@
+Schema,Issue Type,Summary,Priority,Funded?,Target Qtr,Status,Assignee,Spec URL,Components
+Growth > International,Team Objective (Group KR),Compliance - Ensure that business and product requirements are evaluated to reduce risk profile and be compliant where needed.,,,,On Track,,,Global
+Growth > International,Team Objective (Group KR),Optimization - Work cross functionally with teams to optimize the user experience to players and developers.,,,,On Track,,,Global
+Growth > International,Team Objective (Group KR),Expansion - Identify triggers and strategy for when and what unlocks resources for expansion by country.,,,,On Track,,,Global
+Growth > International,Team KR (Deliverable),KR - GRAC Rating,P1 - Deliverable,,2022 Q2,On Track,rchae@roblox.com,,Global
+Growth > International,Team KR (Deliverable),KR - SK Telecom experience launch,P1 - Deliverable,,2022 Q2,Deferred,rchae@roblox.com,,Global
+Growth > International,Team KR (Deliverable),KR - Korea safety partner,P1 - Deliverable,,2022 Q2,On Track,rchae@roblox.com,,Global
+Growth > International,Team KR (Deliverable),JP - Dentsu partnership,P1 - Deliverable,,2022 Q2,On Track,rchae@roblox.com,,Global
+Growth > International,Team KR (Deliverable),KR - CJ E&M partnership for The Haunted House experience developer contact,P1 - Deliverable,,2022 Q3,Research,rchae@roblox.com,,Global
+Growth > International,Team KR (Deliverable),KR - Digital Civility partner Korea,P1 - Deliverable,,2022 Q3,Research,rchae@roblox.com,,Global
+Growth > International,Team KR (Deliverable),JP - Digital Civility partner Japan,P1 - Deliverable,,2022 Q3,Research,rchae@roblox.com,,Global
+Growth > International,Team KR (Deliverable),KR - Samsung experience launch,P1 - Deliverable,,2022 Q3,On Track,rchae@roblox.com,,Global
+Growth > International,Team KR (Deliverable),Webtoon partnership,P1 - Deliverable,,2022 Q3,Research,rchae@roblox.com,,Global
+Growth > International,Team KR (Deliverable),Player enabled locale - RU,P1 - Deliverable,,,Deferred,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Studio Localization Support DE,P1 - Deliverable,,,Deferred,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),RU Corp and Blog Sites,P1 - Deliverable,,,Deferred,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),MT integration into localization tools and processes Phase 1,P1 - Deliverable,,2022 Q1,Complete,jbertaud@roblox.com,,Localization
+Growth > International,Team KR (Deliverable),Addtl Locale support on Platform,P1 - Deliverable,,2022 Q1,Complete,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Japan - Quality analysis UX,P1 - Deliverable,,2022 Q1,Complete,snozaki@roblox.com,,Japan
+Growth > International,Team KR (Deliverable),Onboarding process for Experience partnerships,P1 - Deliverable,,2022 Q1,Complete,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Hire ID Localization Specialist,P0 - Key Deliverable,,2022 Q2,On Track,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Studio Localiation support FR / IT,P0 - Key Deliverable,,2022 Q2,Delayed,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Hire TH Localization Specialist,P1 - Deliverable,,2022 Q2,At Risk,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Studio Support CHT,P1 - Deliverable,,2022 Q2,On Track,eerminero@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),MT integration into localization tools and processes Phase 2 (AWS + Internal),P1 - Deliverable,,2022 Q2,On Track,jbertaud@roblox.com,,Localization
+Growth > International,Team KR (Deliverable),Machine Translation engine grading process,P1 - Deliverable,,2022 Q2,On Track,ylow@roblox.com,,Localization
+Growth > International,Team KR (Deliverable),Indonesian: Filtering support for Roblox rules in CSIFT,P1 - Deliverable,,2022 Q2,At Risk,jbertaud@roblox.com,,T&S
+Growth > International,Team KR (Deliverable),Thai: Filtering support for Roblox rules in CSIFT,P1 - Deliverable,,2022 Q2,At Risk,jbertaud@roblox.com,,T&S
+Growth > International,Team KR (Deliverable),DevHub MVP Support FR / IT,P1 - Deliverable,,2022 Q2,Research,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Player enabled locale - ID,P0 - Key Deliverable,,2022 Q2,At Risk,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Player enabled locale - TH,P0 - Key Deliverable,,2022 Q2,At Risk,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),SEO analyisis (Roblox internal),P1 - Deliverable,,2022 Q2,Opportunistic,sphan@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Hire HI Localization Specialist,P1 - Deliverable,,2022 Q2,Not Started,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Revamp LQA Process for Roblox platform,P1 - Deliverable,,2022 Q2,Research,dnigrelli@roblox.com,,Localization
+Growth > International,Team KR (Deliverable),Release Creator Dashboard for Global creators,P0 - Key Deliverable,,2022 Q2,On Track,rcai@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Legal Document new process,P1 - Deliverable,,2022 Q2,On Track,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Investigate new business model for low tier locales,P1 - Deliverable,,2022 Q2,On Track,jbertaud@roblox.com,,Localization
+Growth > International,Team KR (Deliverable),Open Issues Stale Regression,P1 - Deliverable,,2022 Q2,On Track,jbertaud@roblox.com,,Localization
+Growth > International,Team KR (Deliverable),Hire VN Localization Specialist,P1 - Deliverable,,2022 Q3,Not Started,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Japanese Localization in experience support Sunset,P1 - Deliverable,,2022 Q3,Not Started,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Social Media addition plan,P1 - Deliverable,,2022 Q3,Opportunistic,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Future of Localization team Plan ,P1 - Deliverable,,2022 Q3,On Track,jbertaud@roblox.com,,Localization
+Growth > International,Team KR (Deliverable),Player enabled locale - HI,P0 - Key Deliverable,,2022 Q3,Not Started,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Hindi: Filtering support for Roblox rules in CSIFT,P1 - Deliverable,,2022 Q3,Not Started,jbertaud@roblox.com,,T&S
+Growth > International,Team KR (Deliverable),PLFM: Standard Arabic support,P1 - Deliverable,,2022 Q4,Not Started,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Vietnamese: Filtering support for Roblox rules in CSIFT,P1 - Deliverable,,2022 Q4,Not Started,jbertaud@roblox.com,,T&S
+Growth > International,Team KR (Deliverable),Player enabled locale - VN,P0 - Key Deliverable,,2022 Q4,Not Started,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),DevHub MVP support DE,P1 - Deliverable,,,Deferred,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Social Media global support,P1 - Deliverable,,,Deferred,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Arabic support for Chat filtering,P0 - Key Deliverable,,,Not Started,jbertaud@roblox.com,,T&S
+Growth > International,Team KR (Deliverable),RTL Support timeline,P0 - Key Deliverable,,2021 Q4,Complete,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Integrate Zendesk content into Localization process,P1 - Deliverable,,2021 Q4,Complete,jbertaud@roblox.com,,Localization
+Growth > International,Team KR (Deliverable),Russian: Filtering support for Roblox rules in CSIFT,P0 - Key Deliverable,,2021 Q4,Complete,jbertaud@roblox.com,,T&S
+Growth > International,Team KR (Deliverable),Investigate new LQA vendor onboarding,P1 - Deliverable,,2021 Q4,Complete,jbertaud@roblox.com,,Localization
+Growth > International,Team KR (Deliverable),MT Quality Analysis for Experience content,P1 - Deliverable,,2021 Q4,Complete,jbertaud@roblox.com,,Globalization
+Growth > International,Team KR (Deliverable),Dedicated Localization team members within Roblox teams pt.1,P1 - Deliverable,,2021 Q4,Complete,jbertaud@roblox.com,,Globalization

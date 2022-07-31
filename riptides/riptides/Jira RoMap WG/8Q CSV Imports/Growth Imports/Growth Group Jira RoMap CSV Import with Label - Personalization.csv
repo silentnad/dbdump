@@ -1,0 +1,169 @@
+Schema,Issue Type,Summary,Priority,Funded?,Target Qtr,Status,Assignee,Spec URL,Components
+Growth > Personalization,Team Objective (Group KR),Increase play time ,,,,,,,
+Growth > Personalization,Team KR (Deliverable),Measure of human evaluation and search quality,,,2020 Q1,Complete,kjou@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Single index for all game data (launch with neutral metrics),,,2020 Q1,Complete,kjou@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),"Generate Q,D engagement signals",,,2020 Q1,Complete,kjou@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Launch featured search on App,,,2020 Q1,Complete,kjou@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Game search northstart UX (vision document only),,,2020 Q1,Complete,kjou@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Game metadata northstart (PM and UX only),,,2020 Q1,Complete,kjou@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Launch experiment with ranked game sort,,,2020 Q1,Complete,athakur@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Peek view on App,,,2020 Q1,Complete,athakur@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Sessionization of events to causally parent events to user actions,,,2020 Q1,Complete,athakur@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Accurate impression logging of game tiles,,,2020 Q1,Complete,athakur@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Support external teams with sorts experiments,,,2020 Q1,Complete,zgossman@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Prototype autocomplete for Game searches,,,2020 Q1,Complete,kjou@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Default search to game on web home page,,,2020 Q1,Complete,athakur@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Popular and Popular near you swap experiment,,,2020 Q1,Complete,athakur@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Parenting Play sessions with App sessions,,,2020 Q1,Complete,athakur@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Optimize search results for play time (Q2D ranking),,,2020 Q2,Complete,kjou@roblox.com,,Improve game search quality
+Growth > Personalization,Team KR (Deliverable),Emphasize the one Answer for navigational queries,,,2020 Q2,Complete,kjou@roblox.com,,Improve game search quality
+Growth > Personalization,Team KR (Deliverable),P13N SORT on home page and game page,,,2020 Q2,Complete,,,Intuitive UX
+Growth > Personalization,Team KR (Deliverable),Age gender based aggregated recommendations,,,2020 Q2,Complete,,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Collaborative filtering candidate generation,,,2020 Q2,Complete,,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Entity to entity similarity ranking,,,2020 Q2,Complete,,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Similarity + non personalized engagement,,,2020 Q2,Complete,,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Games API scalability,,,2020 Q2,Complete,zgossman@roblox.com,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),Design single point for game filtering (policy etc.),,,2020 Q2,Complete,zgossman@roblox.com,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),Improve autocomplete quality (better candidates),,,2020 Q3,Complete,kjou@roblox.com,,Improve game search quality
+Growth > Personalization,Team KR (Deliverable),Autocomplete UX for tablet,,,2020 Q3,Complete,kjou@roblox.com,,Intuitive UX
+Growth > Personalization,Team KR (Deliverable),Add play button to emphasized search results,,,2020 Q3,Complete,kjou@roblox.com,,Intuitive UX
+Growth > Personalization,Team KR (Deliverable),User library on home page (merge continue playing and favorites),,,2020 Q3,Complete,zgossman@roblox.com,,Intuitive UX
+Growth > Personalization,Team KR (Deliverable),Game details page redesign (Multiple quarter OKR),,,2020 Q3,Complete,zgossman@roblox.com,,Intuitive UX
+Growth > Personalization,Team KR (Deliverable),Game peekview on large screen design (UX deliverable),,,2020 Q3,Complete,,,Intuitive UX 
+Growth > Personalization,Team KR (Deliverable),Experiment with multiple line sort ,,,2020 Q3,Complete,athakur@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Recommendations on game details page,,,2020 Q3,Complete,zgossman@roblox.com,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),Centralized game filtering service,,,2020 Q3,Complete,zgossman@roblox.com,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),"Update and policy-based filtering to ""no content on failure"" approach",,,2020 Q3,Complete,zgossman@roblox.com,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),Move Games API to a Service-oriented architecture (Multiple quarter OKR),,,2020 Q3,Complete,zgossman@roblox.com,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),Integrate with the new Experimentation platform (DSA),,,2020 Q3,Complete,,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),Refactor all search and sort pipelines (DSA),,,2020 Q3,Complete,,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),Filtering non trusted games using T&S signals,,,2020 Q3,Complete,zgossman@roblox.com,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),Support game ratings ,,,2020 Q4,Complete,,,Cross company support
+Growth > Personalization,Team KR (Deliverable),Autocomplete - Rich suggestions in App,,,2020 Q4,Complete,kjou@roblox.com,,Improve game search quality
+Growth > Personalization,Team KR (Deliverable),Identify and demote spam games in search,,,2020 Q4,Complete,,,Improve game search quality
+Growth > Personalization,Team KR (Deliverable),Rich autocomplete,,,2020 Q4,Complete,,,Improve game search quality
+Growth > Personalization,Team KR (Deliverable),Autocomplete algo improvement,,,2020 Q4,Complete,,,Improve game search quality
+Growth > Personalization,Team KR (Deliverable),Start Player search ranking improvement experiment,,,2020 Q4,Complete,,,Improve game search quality
+Growth > Personalization,Team KR (Deliverable),Launch spotlight,,,2020 Q4,Complete,,,Intuitive UX
+Growth > Personalization,Team KR (Deliverable),Launch my library sort,,,2020 Q4,Complete,,,Intuitive UX
+Growth > Personalization,Team KR (Deliverable),Search navigation UX improvements,,,2020 Q4,Complete,,,Intuitive UX
+Growth > Personalization,Team KR (Deliverable),Launch recommendations in search for nav queries,,,2020 Q4,Complete,,,Personalize Game Discovery
+Growth > Personalization,Team KR (Deliverable),IXP metrics integration (DSA),,,2020 Q4,Complete,,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),Monitoring and alerting of events pipelines (DSA),,,2020 Q4,Deferred,,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),User to user modeling in game ranking,,,2021 Q1,Complete,,,Improve Game Knowledge
+Growth > Personalization,Team KR (Deliverable),Game classification strategy,x,,2021 Q1,Complete,,,Improve Game Knowledge
+Growth > Personalization,Team KR (Deliverable),User to game affinity signal in game ranking,,,2021 Q1,Complete,,,Improve Game Knowledge
+Growth > Personalization,Team KR (Deliverable),Label storage system,x,,2021 Q1,Complete,,,Improve Game Knowledge
+Growth > Personalization,Team KR (Deliverable),GDPR migration ,,,2021 Q1,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),IXP server side integration,,,2021 Q1,Complete,,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),IXP client side integeration,,,2021 Q1,Complete,,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),Migrate to microservices architecture,x,,2021 Q1,Complete,,,Tech Debt
+Growth > Personalization,Team KR (Deliverable),User research on content comprehension,,,2021 Q2,Complete,athakur@roblox.com,,Generate product insights from UER/UXR study and in-product qualitative feedback that result in X successful experiments
+Growth > Personalization,Team KR (Deliverable),Complete audit of Game Discovery events in App (DSA),,,2021 Q2,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Productionize and migrate to root architecture. ,,,2021 Q2,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Add alerts and monitoriting to signal data pipelines,,,2021 Q2,Complete,zgossman@roblox.com,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),100% experiment analyzed via IXP with automated scorecards,,,2021 Q2,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),30+ metrics setup in IXP with auto scorecards,,,2021 Q2,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Peek view for large screen,,,2021 Q2,Delayed,zgossman@roblox.com,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Launch fully personalized game recommendations on home page,x,,2021 Q2,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Launch native UX for player search on App,,,2021 Q2,Complete,zgossman@roblox.com,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Launch experiment with omni search box,,,2021 Q2,Complete,zgossman@roblox.com,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),UX Parity on Web,,,2021 Q2,Complete,zgossman@roblox.com,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Headroom analysis for retention,,,2021 Q2,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Experiment with persistent search bar and persistent query,,,2021 Q2,Complete,zgossman@roblox.com,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Improve usage of autocomplete by 200%,,,2021 Q2,Complete,zgossman@roblox.com,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Incorporate social signals into game recommendations,,,2021 Q2,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Discovery UX vision (PM and UX deliverable to build discovery principles and elements),,,2021 Q2,Complete,athakur@roblox.com,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Launch new D0 game complexity signal,,,2021 Q2,Deferred,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Launch category exploration feature on home page for new users,x,,2021 Q2,Delayed,zgossman@roblox.com,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Migrate microservices out of the monolith,,,2021 Q3,Partial Release,zgossman@roblox.com,,Engineering Efficiency
+Growth > Personalization,Team KR (Deliverable),Filtering logic migration to centralized filtering service,,,2021 Q3,Complete,zgossman@roblox.com,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Support level 2 sessionization in app,,,2021 Q3,Delayed,zgossman@roblox.com,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Enable new content types on homepage (Infra),,,2021 Q3,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Move Search to Root architecture,,,2021 Q3,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Automate search quality evaluation,,,2021 Q3,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Merge cold and warm start recommendations to a single deep learning model,x,,2021 Q3,Deferred,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),User research to understand cause of M1.5 user churn,,,2021 Q4,Blocked,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Improve Total time spent from better home page ranking (topic packing and ranking),,,2021 Q3,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Launch friends playing sort,,,2021 Q4,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Increase autocomplete usage (50% game queries from autocomplete),,,2021 Q3,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Increase recommendation corpus (techiques + signals),,,2021 Q3,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Improve playtime via better game recommendation candidates (new signal + new models),,,2021 Q3,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Improve spell correction model for game search,,,2021 Q3,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Launch Genre explorer experiment,,,2021 Q3,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Improve precision and recall for Featured search result on navigational queries,,,2021 Q3,Deferred,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Build recommendation platform foundation to improve the velocity of adding new feature and signals to game recommendations (Ongoing),,,2021 Q3,Complete,,,Increase the number of ranking model candidates run in production to 15 per quarter.
+Growth > Personalization,Team KR (Deliverable),Use high-bandwidth enrollment approach for ranking experiments,,,2021 Q3,Complete,,,Increase the number of ranking model candidates run in production to 15 per quarter.
+Growth > Personalization,Team KR (Deliverable),Complete homepage service migration,,,2021 Q4,Delayed,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Launch avatar experiment on homepage,,,2021 Q4,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Refactor homepage frontend,,,2021 Q4,Delayed,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Implement LUA OTA datamodel service API,,,2021 Q4,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Support server-driven UX,,,2022 Q1,Deferred,jchang@roblox.com,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),"Build community around game on game details page (videos, message boards, leaderboard etc.)",,,2022 Q1,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Support external safety signals in game recommendations,,,2022 Q4,Complete,,,[SA] Less than 0.01% of WAU’s are exposed to sequestered games.
+Growth > Personalization,Team KR (Deliverable),Support external safety signals in game filtering logic,,,2022 Q4,Complete,,,[SA] Less than 0.01% of WAU’s are exposed to sequestered games.
+Growth > Personalization,Team KR (Deliverable),User research on discovery vision,,,2022 Q4,,,,Generate product insights from UER/UXR study and in-product qualitative feedback that result in X successful experiments
+Growth > Personalization,Team KR (Deliverable),Game Details UX Vision,,,2022 Q4,,,,Generate product insights from UER/UXR study and in-product qualitative feedback that result in X successful experiments
+Growth > Personalization,Team KR (Deliverable),Support algorithmic topics in topic server,,No,2022 Q4,,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Automated data validation for pipelines,,,2022 Q4,,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Experiment with recommended games on search,,,2022 Q4,Deferred,zgossman@roblox.com,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Headroom analysis for engagement,,,2022 Q4,Not Started,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Headroom analysis for co-play recommendations,,,2022 Q4,Not Started,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Improve refresh latency for recommendations,,No,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Improve latency for impressions,,No,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Launch experiment with Spotlight,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Increase autocomplete coverage (lower latency),,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Improve autocomplete model quality,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Fix trending searches,,No,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Improvement to continue playing sort,,No,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Improve player search quality (proximity signals),,No,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Friend recommendations on home,,No,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Launch navigational bar in omni search,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Events in Spotlight,,No,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Scale human evaluation ,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Onboard 3 content types to homepage,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Support content label affinity in game recommendations,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Build user activity model (recreate user behavior using logs),,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Group search improvements,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Group recommendations,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),DUAR UX ,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Player autocomplete,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Omni-autocomplete,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Onboard avatar to omniautocomplete,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Tag-based browsing for games,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Build roadmap for developer triggered recommendations,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Game Details UX Refresh,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),1+ game based notification,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Integrate social graph in player search,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Personalized ranking in omnisearch (query intent and blending),,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Zero-typing state for search (Browse page),,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Support 3 calls to action on game tiles,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Scheduled play,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Re-engage call to action,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Recommendations at end of game session,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Search and recommendations in-game,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Support streaming data for online recommendations,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),XBox UX parity,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Content understanding using machine learning ,,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),"""Not interested"" system + UX",,,2022 Q4,,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Automated model evaluation,,,2022 Q4,Opportunistic,zgossman@roblox.com,,Increase the number of ranking model candidates run in production to 15 per quarter.
+Growth > Personalization,Team KR (Deliverable),Ability to support content blocks at fixed position on homepage,,,2021 Q4,Complete,,,Improve homepage engagement
+Growth > Personalization,Team KR (Deliverable),Improve topic ranking algorithm,,,2021 Q4,Deferred,,,Improve homepage engagement
+Growth > Personalization,Team KR (Deliverable),Launch feature based re-ranking,,,2021 Q4,Complete,,,Improve homepage engagement
+Growth > Personalization,Team KR (Deliverable),Launch Genre explorer experiment,,,2021 Q4,Complete,,,Increase M1.5 retention by 25%
+Growth > Personalization,Team KR (Deliverable),Automate human labeling pipelines to reduce latency to 24 hours (vs 6 months),,,2021 Q4,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Migrate game topic to topic services,,,2021 Q4,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Implement user to topic affinity servicing,,,2021 Q4,Deferred,,,Improve homepage engagement
+Growth > Personalization,Team KR (Deliverable),Identification of preliminary signals for homepage vision,,,2021 Q4,Complete,,,Improve homepage engagement
+Growth > Personalization,Team KR (Deliverable),Complete BEDEV migration to meet company goals,,,2021 Q4,Partial Release,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Feature/Label monitoring,,,2021 Q4,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Onboard reranking training from Arrikto,,,2021 Q4,Delayed,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),Ship improved GSQ metric and automate computation to at least once a week,,,2021 Q4,Delayed,,,Increase engineering velocity (search)
+Growth > Personalization,Team KR (Deliverable),Automate autocomplete candidate generation and ranking,,,2021 Q4,Deferred,,,Frictionless search
+Growth > Personalization,Team KR (Deliverable),Improve autocomplete spell correction model,,,2021 Q4,Deferred,,,Frictionless search
+Growth > Personalization,Team KR (Deliverable),Launch experiment with persistent search box,,,2021 Q4,Complete,,,Frictionless search
+Growth > Personalization,Team KR (Deliverable),Propose present and get sign off on UX vision for search and browse,,,2021 Q4,Complete,,,Frictionless search
+Growth > Personalization,Team KR (Deliverable),Omni search root deployed and accepting 100% traffic,,,2021 Q4,Complete,,,Increase engineering velocity (search)
+Growth > Personalization,Team KR (Deliverable),Migrate Indexing and search service to new search infra on BEDEV 2,,,2021 Q4,Complete,,,Increase engineering velocity (search)
+Growth > Personalization,Team KR (Deliverable),Unify App and Web logging,,,2021 Q4,Complete,,,Increase engineering velocity
+Growth > Personalization,Team KR (Deliverable),All metrics in dashboard and supported in IXP,,,2021 Q4,Delayed,,,Increase engineering velocity
